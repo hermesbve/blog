@@ -7,6 +7,9 @@ tags:
   - test
   - images
   - feature_row
+header:
+  image: /assets/images/unsplash-image-4.jpg
+  caption: "Desert dunes — header image for the feature row post"
 feature_row:
   - image_path: /assets/images/unsplash-image-1.jpg
     alt: "Mountain landscape"

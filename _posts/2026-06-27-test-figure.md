@@ -7,6 +7,9 @@ tags:
   - test
   - images
   - figure
+header:
+  image: /assets/images/unsplash-image-2.jpg
+  caption: "Forest trail — header image for this post"
 ---
 
 This post demonstrates the Minimal Mistakes **figure** include helper.

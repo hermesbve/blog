@@ -7,6 +7,9 @@ tags:
   - test
   - images
   - gallery
+header:
+  image: /assets/images/unsplash-image-3.jpg
+  caption: "Ocean waves — header image for the gallery post"
 gallery:
   - url: /assets/images/unsplash-image-1.jpg
     image_path: /assets/images/unsplash-image-1.jpg
