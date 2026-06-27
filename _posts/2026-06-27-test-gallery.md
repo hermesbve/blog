@@ -8,8 +8,10 @@ tags:
   - images
   - gallery
 header:
-  image: /assets/images/unsplash-image-3.jpg
+  overlay_image: /assets/images/unsplash-image-3.jpg
+  overlay_filter: 0.4
   caption: "Ocean waves — header image for the gallery post"
+excerpt: "Demonstrating the **gallery** include helper — image grids with lightbox and multiple layouts."
 gallery:
   - url: /assets/images/unsplash-image-1.jpg
     image_path: /assets/images/unsplash-image-1.jpg

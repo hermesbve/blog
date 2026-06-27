@@ -8,8 +8,10 @@ tags:
   - images
   - feature_row
 header:
-  image: /assets/images/unsplash-image-4.jpg
+  overlay_image: /assets/images/unsplash-image-4.jpg
+  overlay_filter: 0.4
   caption: "Desert dunes — header image for the feature row post"
+excerpt: "Demonstrating the **feature_row** include helper — image blocks with titles, text, and call-to-action buttons."
 feature_row:
   - image_path: /assets/images/unsplash-image-1.jpg
     alt: "Mountain landscape"

@@ -8,8 +8,10 @@ tags:
   - images
   - figure
 header:
-  image: /assets/images/unsplash-image-2.jpg
+  overlay_image: /assets/images/unsplash-image-2.jpg
+  overlay_filter: 0.4
   caption: "Forest trail — header image for this post"
+excerpt: "Demonstrating the **figure** include helper — single images with captions and lightbox support."
 ---
 
 This post demonstrates the Minimal Mistakes **figure** include helper.
