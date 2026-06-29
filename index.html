@@ -18,10 +18,10 @@ excerpt: "Exploring Jekyll layouts and image helpers with Minimal Mistakes."
   {% for item in site.portfolio limit:4 %}
     <div class="grid__item">
       <article class="archive__item">
-        {% if item.teaser %}
+        {% if item.header.teaser %}
           <div class="archive__item-teaser">
             <a href="{{ item.url | relative_url }}">
-              <img src="{{ item.teaser | relative_url }}" alt="{{ item.title }}" loading="lazy">
+              <img src="{{ item.header.teaser | relative_url }}" alt="{{ item.title }}" loading="lazy">
             </a>
           </div>
         {% endif %}
