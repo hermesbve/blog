@@ -10,3 +10,34 @@ header:
   caption: "Photo: Picsum"
 excerpt: "Exploring Jekyll layouts and image helpers with Minimal Mistakes."
 ---
+
+{% if site.portfolio.size > 0 %}
+<h2>Latest Projects</h2>
+
+<div class="entries-grid">
+  {% for item in site.portfolio limit:6 %}
+    <div class="grid__item">
+      <article class="archive__item">
+        {% if item.teaser %}
+          <div class="archive__item-teaser">
+            <a href="{{ item.url | relative_url }}">
+              <img src="{{ item.teaser | relative_url }}" alt="{{ item.title }}" loading="lazy">
+            </a>
+          </div>
+        {% endif %}
+        <h2 class="archive__item-title no_toc">
+          <a href="{{ item.url | relative_url }}">{{ item.title }}</a>
+        </h2>
+        {% if item.excerpt %}
+          <p class="archive__item-excerpt">{{ item.excerpt | markdownify | strip_html | truncate: 160 }}</p>
+        {% endif %}
+      </article>
+    </div>
+  {% endfor %}
+</div>
+
+<p style="margin-top: 1em;"><a href="/portfolio/" class="btn btn--primary">View Full Portfolio →</a></p>
+
+<hr style="margin: 2em 0;">
+
+{% endif %}
