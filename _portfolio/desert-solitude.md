@@ -3,9 +3,9 @@ title: "Desert Solitude"
 excerpt: "Vast sand dunes stretching to the horizon — minimalism, geometry, and the beauty of empty spaces."
 header:
   overlay_image: /assets/images/unsplash-image-4.jpg
+  teaser: /assets/images/unsplash-image-4-th.jpg
   overlay_filter: 0.4
   caption: "Photo: Picsum"
-teaser: /assets/images/unsplash-image-4-th.jpg
 ---
 
 This series explores the stark beauty of desert landscapes, where wind-carved dunes create natural sculptures.

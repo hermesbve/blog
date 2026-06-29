@@ -3,9 +3,9 @@ title: "Ocean Waves"
 excerpt: "Endless waves crashing on a pristine shoreline — motion, texture, and the infinite horizon."
 header:
   overlay_image: /assets/images/unsplash-image-3.jpg
+  teaser: /assets/images/unsplash-image-3-th.jpg
   overlay_filter: 0.4
   caption: "Photo: Picsum"
-teaser: /assets/images/unsplash-image-3-th.jpg
 ---
 
 A study in motion and texture — capturing the rhythmic energy of ocean waves against a moody sky.

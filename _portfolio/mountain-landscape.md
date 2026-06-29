@@ -3,9 +3,9 @@ title: "Mountain Landscape"
 excerpt: "A serene mountain landscape captured at golden hour — exploring light, texture, and depth in nature photography."
 header:
   overlay_image: /assets/images/unsplash-image-1.jpg
+  teaser: /assets/images/unsplash-image-1-th.jpg
   overlay_filter: 0.4
   caption: "Photo: Picsum"
-teaser: /assets/images/unsplash-image-1-th.jpg
 ---
 
 This portfolio piece explores the interplay of light and shadow in mountain landscapes.

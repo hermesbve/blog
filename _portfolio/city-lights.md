@@ -3,9 +3,9 @@ title: "City Lights"
 excerpt: "An urban skyline at twilight — architecture, light pollution, and the geometry of the modern city."
 header:
   overlay_image: /assets/images/unsplash-image-5.jpg
+  teaser: /assets/images/unsplash-image-5-th.jpg
   overlay_filter: 0.4
   caption: "Photo: Picsum"
-teaser: /assets/images/unsplash-image-5-th.jpg
 ---
 
 A nighttime exploration of urban architecture and the warm glow of city lights against the dusk sky.
