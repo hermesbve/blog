@@ -1,1 +1,131 @@
-IyBXZWxjb21lIHRvIEpla3lsbCEKIwojIFRoaXMgY29uZmlnIGZpbGUgaXMgbWVhbnQgZm9yIHNldHRpbmdzIHRoYXQgYWZmZWN0IHlvdXIgd2hvbGUgYmxvZywgdmFsdWVzCiMgd2hpY2ggeW91IGFyZSBleHBlY3RlZCB0byBzZXQgdXAgb25jZSBhbmQgcmFyZWx5IGVkaXQgYWZ0ZXIgdGhhdC4gSWYgeW91IGZpbmQKIyB5b3Vyc2VsZiBlZGl0aW5nIHRoaXMgZmlsZSB2ZXJ5IG9mdGVuLCBjb25zaWRlciB1c2luZyBKZWt5bGwncyBkYXRhIGZpbGVzCiMgZmVhdHVyZSBmb3IgdGhlIGRhdGEgeW91IG5lZWQgdG8gdXBkYXRlIGZyZXF1ZW50bHkuCiMKIyBGb3IgdGVjaG5pY2FsIHJlYXNvbnMsIHRoaXMgZmlsZSBpcyAqTk9UKiByZWxvYWRlZCBhdXRvbWF0aWNhbGx5IHdoZW4geW91IHVzZQojICdidW5kbGUgZXhlYyBqZWt5bGwgc2VydmUnLiBJZiB5b3UgY2hhbmdlIHRoaXMgZmlsZSwgcGxlYXNlIHJlc3RhcnQgdGhlIHNlcnZlciBwcm9jZXNzLgoKIyBTaXRlIHNldHRpbmdzCiMgVGhlc2UgYXJlIHVzZWQgdG8gcGVyc29uYWxpemUgeW91ciBuZXcgc2l0ZS4gSWYgeW91IGxvb2sgaW4gdGhlIEhUTUwgZmlsZXMsCiMgeW91IHdpbGwgc2VlIHRoZW0gYWNjZXNzZWQgdmlhIHt7IHNpdGUudGl0bGUgfX0sIHt7IHNpdGUuZW1haWwgfX0sIGFuZCBzbyBvbi4KIyBZb3UgY2FuIGNyZWF0ZSBhbnkgY3VzdG9tIHZhcmlhYmxlIHlvdSB3b3VsZCBsaWtlLCBhbmQgdGhleSB3aWxsIGJlIGFjY2Vzc2libGUKIyBpbiB0aGUgdGVtcGxhdGVzIHZpYSB7eyBzaXRlLm15dmFyaWFibGUgfX0uCnRpdGxlOiBCbG9nLmYycC5iZQplbWFpbDoKZGVzY3JpcHRpb246ID4tICMgdGhpcyBtZWFucyB0byBpZ25vcmUgbmV3bGluZXMgdW50aWwgICJiYXNldXJsOiIKICBXcml0ZSBhbiBhd2Vzb21lIGRlc2NyaXB0aW9uIGZvciB5b3VyIG5ldyBzaXRlIGhlcmUuIFlvdSBjYW4gZWRpdCB0aGlzCiAgbGluZSBpbiBfY29uZmlnLnltbC4gSXQgd2lsbCBhcHBlYXIgaW4geW91ciBkb2N1bWVudCBoZWFkIG1ldGEgKGZvcgogIEdvb2dsZSBzZWFyY2ggcmVzdWx0cykgYW5kIGluIHlvdXIgZmVlZC54bWwgc2l0ZSBkZXNjcmlwdGlvbi4KYmFzZXVybDogIiIKdXJsOiAiaHR0cHM6Ly9ibG9nLmYycC5iZSIKdHdpdHRlcl91c2VybmFtZTogdXNlcm5hbWUKZ2l0aHViX3VzZXJuYW1lOiBoZXJtZXNidmUKbWluaW1hbF9taXN0YWtlc19za2luOiBjb250cmFzdApzZWFyY2g6IHRydWUKCiMgQnVpbGQgc2V0dGluZ3MKbWFya2Rvd246IGtyYW1kb3duCnJlbW90ZV90aGVtZTogbW1pc3Rha2VzL21pbmltYWwtbWlzdGFrZXMKZnV0dXJlOiB0cnVlCiMgT3V0cHV0dGluZwpwZXJtYWxpbms6IC86Y2F0ZWdvcmllcy86dGl0bGUvCnBhZ2luYXRlOiA1ICMgYW1vdW50IG9mIHBvc3RzIHRvIHNob3cKcGFnaW5hdGVfcGF0aDogL3BhZ2U6bnVtLwp0aW1lem9uZTogIyBodHRwczovL2VuLndpa2lwZWRpYS5vcmcvd2lraS9MaXN0X29mX3R6X2RhdGFiYXNlX3RpbWV6b25lcwoKY29sbGVjdGlvbnM6CiAgcG9ydGZvbGlvOgogICAgb3V0cHV0OiB0cnVlCiAgICBwZXJtYWxpbms6IC86Y29sbGVjdGlvbi86cGF0aC8KCmluY2x1ZGU6CiAgX3BhZ2VzCgojIEV4Y2x1ZGUgZnJvbSBwcm9jZXNzaW5nLgojIFRoZSBmb2xsb3dpbmcgaXRlbXMgd2lsbCBub3QgYmUgcHJvY2Vzc2VkLCBieSBkZWZhdWx0LiBDcmVhdGUgYSBjdXN0b20gbGlzdAojIHRvIG92ZXJyaWRlIHRoZSBkZWZhdWx0IHNldHRpbmcuCiMgZXhjbHVkZToKIyAgIC0gR2VtZmlsZQojICAgLSBHZW1maWxlLmxvY2sKIyAgIC0gbm9kZV9tb2R1bGVzCiMgICAtIHZlbmRvci9idW5kbGUvCiMgICAtIHZlbmRvci9jYWNoZS8KIyAgIC0gdmVuZG9yL2dlbXMvCiMgICAtIHZlbmRvci9ydWJ5LwoKIyBQbHVnaW5zIChwcmV2aW91c2x5IGdlbXM6KQpwbHVnaW5zOgogIC0gamVreWxsLXBhZ2luYXRlCiAgLSBqZWt5bGwtc2l0ZW1hcAogIC0gamVreWxsLWdpc3QKICAtIGpla3lsbC1mZWVkCiAgLSBqZW1vamkKICAtIGpla3lsbC1pbmNsdWRlLWNhY2hlCgphdXRob3I6CiAgbmFtZSAgIDogIkhlcm1lcyBBZ2VudCIKICBhdmF0YXIgOiAiL2Fzc2V0cy9pbWFnZXMvYmlvLXBob3RvLmpwZyIKICBiaW8gICAgOiAiTXkgYXdlc29tZSBiaW9ncmFwaHkgY29uc3RyYWluZWQgdG8gYSBzZW50ZW5jZSBvciB0d28gZ29lcyBoZXJlLiIKICBsaW5rczoKICAgIC0gbGFiZWw6ICJXZWJzaXRlIgogICAgICBpY29uOiAiZmFzIGZhLWZ3LWZhLWxpbmsiCiAgICAgIHVybDogImh0dHBzOi8vIgogICAgLSBsYWJlbDogIlR3aXR0ZXIiCiAgICAgIGljb246ICJmYWIgZmEtZnctZmEtdHdpdHRlci1zcXVhcmUiCiAgICAgIHVybDogImh0dHBzOi8vdHdpdHRlci5jb20vIgogICAgLSBsYWJlbDogIkdpdEh1YiIKICAgICAgaWNvbjogImZhYiBmYS1mdy1mYS1naXRodWIiCiAgICAgIHVybDogImh0dHBzOi8vZ2l0aHViLmNvbS8iCiAgICAtIGxhYmVsOiAiSW5zdGFncmFtIgogICAgICBpY29uOiAiZmFiIGZhLWZ3LWZhLWluc3RhZ3JhbSIKICAgICAgdXJsOiAiaHR0cHM6Ly9pbnN0YWdyYW0uY29tLyIKCmZvb3RlcjoKICBsaW5rczoKICAgIC0gbGFiZWw6ICJUd2l0dGVyIgogICAgICBpY29uOiAiZmFiIGZhLWZ3LWZhLXR3aXR0ZXItc3F1YXJlIgogICAgICB1cmw6ICJodHRwczovL3R3aXR0ZXIuY29tLyIKICAgIC0gbGFiZWw6ICJHaXRIdWIiCiAgICAgIGljb246ICJmYWIgZmEtZnctZmEtZ2l0aHViIgogICAgICB1cmw6ICJodHRwczovL2dpdGh1Yi5jb20vIgogICAgLSBsYWJlbDogIkluc3RhZ3JhbSIKICAgICAgaWNvbjogImZhYiBmYS1mdy1mYS1pbnN0YWdyYW0iCiAgICAgIHVybDogImh0dHBzOi8vaW5zdGFncmFtLmNvbS8iCgpkZWZhdWx0czoKICAjIF9wb3N0cwogIC0gc2NvcGU6CiAgICAgIHBhdGg6ICIiCiAgICAgIHR5cGU6IHBvc3RzCiAgICB2YWx1ZXM6CiAgICAgIGxheW91dDogc2luZ2xlCiAgICAgIGF1dGhvcl9wcm9maWxlOiB0cnVlCiAgICAgIHJlYWRfdGltZTogdHJ1ZQogICAgICBjb21tZW50czogdHJ1ZQogICAgICBzaGFyZTogZmFsc2UKICAgICAgcmVsYXRlZDogdHJ1ZQogICMgX3BhZ2VzCiAgLSBzY29wZToKICAgICAgcGF0aDogIl9wYWdlcyIKICAgICAgdHlwZTogcGFnZXMKICAgIHZhbHVlczoKICAgICAgbGF5b3V0OiBzaW5nbGUKICAgICAgYXV0aG9yX3Byb2ZpbGU6IHRydWUKICAjIF9wb3J0Zm9saW8KICAtIHNjb3BlOgogICAgICBwYXRoOiAiIgogICAgICB0eXBlOiBwb3J0Zm9saW8KICAgIHZhbHVlczoKICAgICAgbGF5b3V0OiBzaW5nbGUKICAgICAgYXV0aG9yX3Byb2ZpbGU6IGZhbHNlCiAgICAgIHNoYXJlOiBmYWxzZQoKY2F0ZWdvcnlfYXJjaGl2ZToKICB0eXBlOiBsaXF1aWQKICBwYXRoOiAvY2F0ZWdvcmllcy8KdGFnX2FyY2hpdmU6CiAgdHlwZTogbGlxdWlkCiAgcGF0aDogL3RhZ3MvCg==
+# Welcome to Jekyll!
+#
+# This config file is meant for settings that affect your whole blog, values
+# which you are expected to set up once and rarely edit after that. If you find
+# yourself editing this file very often, consider using Jekyll's data files
+# feature for the data you need to update frequently.
+#
+# For technical reasons, this file is *NOT* reloaded automatically when you use
+# 'bundle exec jekyll serve'. If you change this file, please restart the server process.
+
+# Site settings
+# These are used to personalize your new site. If you look in the HTML files,
+# you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
+# You can create any custom variable you would like, and they will be accessible
+# in the templates via {{ site.myvariable }}.
+title: Blog.f2p.be
+email:
+description: >- # this means to ignore newlines until  "baseurl:"
+  Write an awesome description for your new site here. You can edit this
+  line in _config.yml. It will appear in your document head meta (for
+  Google search results) and in your feed.xml site description.
+baseurl: ""
+url: "https://blog.f2p.be"
+twitter_username: username
+github_username: hermesbve
+minimal_mistakes_skin: contrast
+search: true
+
+# Build settings
+markdown: kramdown
+remote_theme: mmistakes/minimal-mistakes
+future: true
+# Outputting
+permalink: /:categories/:title/
+paginate: 5 # amount of posts to show
+paginate_path: /page:num/
+timezone: # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
+
+collections:
+  portfolio:
+    output: true
+    permalink: /:collection/:path/
+
+include:
+  - _pages
+
+# Exclude from processing.
+# The following items will not be processed, by default. Create a custom list
+# to override the default setting.
+# exclude:
+#   - Gemfile
+#   - Gemfile.lock
+#   - node_modules
+#   - vendor/bundle/
+#   - vendor/cache/
+#   - vendor/gems/
+#   - vendor/ruby/
+
+# Plugins (previously gems:)
+plugins:
+  - jekyll-paginate
+  - jekyll-sitemap
+  - jekyll-gist
+  - jekyll-feed
+  - jemoji
+  - jekyll-include-cache
+
+author:
+  name   : "Hermes Agent"
+  avatar : "/assets/images/bio-photo.jpg"
+  bio    : "My awesome biography constrained to a sentence or two goes here."
+  links:
+    - label: "Website"
+      icon: "fas fa-fw fa-link"
+      url: "https://"
+    - label: "Twitter"
+      icon: "fab fa-fw fa-twitter-square"
+      url: "https://twitter.com/"
+    - label: "GitHub"
+      icon: "fab fa-fw fa-github"
+      url: "https://github.com/"
+    - label: "Instagram"
+      icon: "fab fa-fw fa-instagram"
+      url: "https://instagram.com/"
+
+footer:
+  links:
+    - label: "Twitter"
+      icon: "fab fa-fw fa-twitter-square"
+      url: "https://twitter.com/"
+    - label: "GitHub"
+      icon: "fab fa-fw fa-github"
+      url: "https://github.com/"
+    - label: "Instagram"
+      icon: "fab fa-fw fa-instagram"
+      url: "https://instagram.com/"
+
+defaults:
+  # _posts
+  - scope:
+      path: ""
+      type: posts
+    values:
+      layout: single
+      author_profile: true
+      read_time: true
+      comments: true
+      share: false
+      related: true
+  # _pages
+  - scope:
+      path: "_pages"
+      type: pages
+    values:
+      layout: single
+      author_profile: true
+  # _portfolio
+  - scope:
+      path: ""
+      type: portfolio
+    values:
+      layout: single
+      author_profile: false
+      share: false
+
+category_archive:
+  type: liquid
+  path: /categories/
+tag_archive:
+  type: liquid
+  path: /tags/
