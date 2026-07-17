@@ -1,5 +1,6 @@
 ---
 title: "Ocean Waves"
+sort_date: 2026-06-29T09:36:17+02:00
 excerpt: "Endless waves crashing on a pristine shoreline — motion, texture, and the infinite horizon."
 header:
   overlay_image: /assets/images/unsplash-image-3.jpg

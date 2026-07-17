@@ -1,5 +1,6 @@
 ---
 title: "Desert Solitude"
+sort_date: 2026-06-29T09:36:17+02:00
 excerpt: "Vast sand dunes stretching to the horizon — minimalism, geometry, and the beauty of empty spaces."
 header:
   overlay_image: /assets/images/unsplash-image-4.jpg

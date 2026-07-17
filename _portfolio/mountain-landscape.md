@@ -1,5 +1,6 @@
 ---
 title: "Mountain Landscape"
+sort_date: 2026-06-29T09:36:17+02:00
 excerpt: "A serene mountain landscape captured at golden hour — exploring light, texture, and depth in nature photography."
 header:
   overlay_image: /assets/images/unsplash-image-1.jpg

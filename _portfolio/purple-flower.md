@@ -1,5 +1,6 @@
 ---
 title: "Purple Flower"
+sort_date: 2026-06-29T11:17:44+02:00
 excerpt: "A delicate purple bloom captured in close-up — exploring the intricate geometry and soft gradients of nature's design."
 header:
   overlay_image: /assets/images/purple-flower.jpg

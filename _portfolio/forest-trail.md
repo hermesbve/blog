@@ -1,5 +1,6 @@
 ---
 title: "Forest Trail"
+sort_date: 2026-06-29T09:36:17+02:00
 excerpt: "A peaceful forest trail winding through lush greenery — a study in layers, depth, and natural color palettes."
 header:
   overlay_image: /assets/images/unsplash-image-2.jpg

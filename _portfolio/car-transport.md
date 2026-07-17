@@ -1,5 +1,6 @@
 ---
 title: "Car Transport"
+sort_date: 2026-06-29T11:27:57+02:00
 excerpt: "New cars lined up in a traffic jam before delivery — a glimpse into the logistics that bring vehicles from factory to road."
 header:
   overlay_image: /assets/images/car-transport.jpg

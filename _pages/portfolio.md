@@ -5,6 +5,8 @@ permalink: /portfolio/
 collection: portfolio
 entries_layout: grid
 classes: wide
+sort_by: sort_date
+sort_order: reverse
 header:
   overlay_image: /assets/images/unsplash-image-1.jpg
   overlay_filter: 0.4
