@@ -12,10 +12,12 @@ excerpt: "Exploring Jekyll layouts and image helpers with Minimal Mistakes."
 ---
 
 {% if site.portfolio.size > 0 %}
-<h2>Latest Projects</h2>
+{% assign sorted_portfolio = site.portfolio | sort: 'sort_date' | reverse %}
+
+<h2>What I'm currently working on:</h2>
 
 <div class="entries-grid">
-  {% for item in site.portfolio limit:4 %}
+  {% for item in sorted_portfolio limit:4 %}
     <div class="grid__item">
       <article class="archive__item">
         {% if item.header.teaser %}
