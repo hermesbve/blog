@@ -26,3 +26,8 @@
 .grid__item .archive__item-excerpt {
   flex: 1;
 }
+
+/* Consistent overlay hero height across all pages */
+.page__hero--overlay {
+  min-height: 18rem;
+}
