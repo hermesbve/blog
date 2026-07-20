@@ -27,7 +27,11 @@
   flex: 1;
 }
 
-/* Consistent overlay hero height across all pages */
+/* Consistent overlay hero height — smaller on subpages, larger on homepage */
 .page__hero--overlay {
+  min-height: 13rem;
+}
+
+.layout--home .page__hero--overlay {
   min-height: 18rem;
 }
