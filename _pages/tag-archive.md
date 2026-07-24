@@ -1,7 +1,7 @@
 ---
 title: "Posts by Tag"
 permalink: /tags/
-layout: tags
+layout: tags-popular
 author_profile: true
 header:
   overlay_image: /assets/images/unsplash-image-1.jpg
