@@ -8,3 +8,5 @@ header:
   overlay_filter: 0.4
   caption: "Photo: Picsum"
 ---
+
+*Popular tags listed above. For the complete index including single-use tags, visit [all tags](/all-tags/).*
